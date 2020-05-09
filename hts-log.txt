@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 May 2020 19:37:05 at http://localhost/Gracefarm/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/Gracefarm/ -O1 "E:\Source control\web\Gracefarn feeds" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:42:13	Error: 	"Not Found" (404) at link localhost/Gracefarm/wp-content/plugins/header-footer-elementor/inc/images/shade.png (from localhost/Gracefarm/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.4.1)
+19:42:15	Warning: 	Moved Permanently for localhost/Gracefarm/?p=468
+19:42:15	Warning: 	File has moved from localhost/Gracefarm/?p=468 to http://localhost/Gracefarm/about/
+19:42:15	Warning: 	Moved Permanently for localhost/Gracefarm/?p=467
+19:42:15	Warning: 	File has moved from localhost/Gracefarm/?p=467 to http://localhost/Gracefarm/contact/
+19:42:15	Warning: 	Moved Permanently for localhost/Gracefarm/?p=490
+19:42:15	Warning: 	File has moved from localhost/Gracefarm/?p=490 to http://localhost/Gracefarm/my-account/
+19:42:16	Error: 	"Not Found" (404) at link localhost/Gracefarm/?page_id=3 (from localhost/Gracefarm/my-account/)
+19:42:16	Warning: 	Moved Permanently for localhost/Gracefarm/?p=488
+19:42:16	Warning: 	File has moved from localhost/Gracefarm/?p=488 to http://localhost/Gracefarm/cart/
+19:42:17	Warning: 	Moved Permanently for localhost/Gracefarm/?p=316
+19:42:17	Warning: 	File has moved from localhost/Gracefarm/?p=316 to http://localhost/Gracefarm/product/rumen-development-activator/
+19:42:17	Warning: 	Moved Permanently for localhost/Gracefarm/?p=307
+19:42:17	Warning: 	File has moved from localhost/Gracefarm/?p=307 to http://localhost/Gracefarm/product/piggy/
+19:42:17	Warning: 	Moved Permanently for localhost/Gracefarm/?p=317
+19:42:17	Warning: 	File has moved from localhost/Gracefarm/?p=317 to http://localhost/Gracefarm/product/for-12-liters-a-day/
+19:42:17	Warning: 	Moved Permanently for localhost/Gracefarm/?p=315
+19:42:17	Warning: 	File has moved from localhost/Gracefarm/?p=315 to http://localhost/Gracefarm/product/mid/
+19:42:17	Warning: 	Moved Permanently for localhost/Gracefarm/?p=314
+19:42:17	Warning: 	File has moved from localhost/Gracefarm/?p=314 to http://localhost/Gracefarm/product/egg-production/
+19:42:19	Warning: 	Moved Permanently for localhost/Gracefarm/?p=313
+19:42:19	Warning: 	File has moved from localhost/Gracefarm/?p=313 to http://localhost/Gracefarm/product/meat-and-eggs/
+19:42:20	Warning: 	Moved Permanently for localhost/Gracefarm/?p=312
+19:42:20	Warning: 	File has moved from localhost/Gracefarm/?p=312 to http://localhost/Gracefarm/product/gainers/
+19:42:20	Warning: 	Moved Permanently for localhost/Gracefarm/?p=305
+19:42:20	Warning: 	File has moved from localhost/Gracefarm/?p=305 to http://localhost/Gracefarm/product/weaner/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 15 seconds : 192 links scanned, 177 files written (9579678 bytes overall) [9743350 bytes received at 30931 bytes/sec], 2.7 requests per connection
+(2 errors, 24 warnings, 0 messages)
